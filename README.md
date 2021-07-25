@@ -1,5 +1,8 @@
 ### Hola soy Rodrigo Garayalde 👋
 
+- 🔭 Actualmente estoy trabajando en mi crecimiento y desarrollo personal como programador. 
+- 🌱 Estoy en constante aprendizaje con el curso de Programación WebFullStack. 
+- 📖💻 Infinitamente agradecido por la oportunidad! @Santander @DigitalHouse @FundacionFormar
 <!--
 **RodriGBorges/RodriGBorges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
