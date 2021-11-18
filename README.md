@@ -4,6 +4,11 @@
 - 🌱 Estoy en constante aprendizaje con el curso de Programación WebFullStack. 
 - 📖💻 Infinitamente agradecido por la oportunidad! @Santander @DigitalHouse @FundacionFormar
 
+<div style="display: inline_block">
+  <img align="right" alt="Rodrigo-pic" height="250" src="https://user-images.githubusercontent.com/85651960/142493773-ddd8b700-9455-46a5-98ca-8febd769c7fd.gif">
+</div>
+
+
 ## Snake eating my contribution graph
 ![snake gif](https://github.com/RodriGBorges/RodriGBorges/blob/output/github-contribution-grid-snake.svg)
 <!--
