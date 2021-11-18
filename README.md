@@ -1,4 +1,4 @@
-### Hola soy Rodrigo Garayalde 👋
+![PortfolioBanner](https://user-images.githubusercontent.com/85651960/142478492-96196f31-ef77-4046-94c2-f2979dd0e701.gif)
 
 - 🔭 Actualmente estoy trabajando en mi crecimiento y desarrollo personal como programador. 
 - 🌱 Estoy en constante aprendizaje con el curso de Programación WebFullStack. 
@@ -7,6 +7,10 @@
 ## Snake eating my contribution graph
 ![snake gif](https://github.com/RodriGBorges/RodriGBorges/blob/output/github-contribution-grid-snake.svg)
 <!--
+
+
+
+
 **RodriGBorges/RodriGBorges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
