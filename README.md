@@ -18,8 +18,15 @@
 </div>
 
 
+
 ##
 ![snake gif](https://github.com/RodriGBorges/RodriGBorges/blob/output/github-contribution-grid-snake.svg)
+
+
+<div>
+  <img align="left" alt="Rodri-JC" height="150" src="https://user-images.githubusercontent.com/85651960/142505058-121a6932-b406-4d66-be74-b65e0dd041f7.gif">
+</div>
+
 <!--
 
 
