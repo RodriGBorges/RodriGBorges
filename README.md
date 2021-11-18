@@ -5,7 +5,7 @@
 - 📖💻 Infinitamente agradecido por la oportunidad! @Santander @DigitalHouse @FundacionFormar
 
 ## Snake eating my contribution graph
-![snake gif](https://github.com/RodriGBorges/RodriGBorges/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/RodriGBorges/RodriGBorges/blob/output/github-contribution-grid-snake.svg)
 <!--
 **RodriGBorges/RodriGBorges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
