@@ -5,11 +5,20 @@
 - 📖💻 Infinitamente agradecido por la oportunidad! @Santander @DigitalHouse @FundacionFormar
 
 <div style="display: inline_block">
+  <img align="center" alt="Rodri-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="Rodri-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="Rodri-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="Rodri-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Rodri-Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img align="center" alt="Rodri-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Rodri-Sequelize" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
+  <img align="center" alt="Rodri-Sequelize" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Rodri-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="right" alt="Rodrigo-pic" height="250" src="https://user-images.githubusercontent.com/85651960/142493773-ddd8b700-9455-46a5-98ca-8febd769c7fd.gif">
 </div>
 
 
-## Snake eating my contribution graph
+##
 ![snake gif](https://github.com/RodriGBorges/RodriGBorges/blob/output/github-contribution-grid-snake.svg)
 <!--
 
