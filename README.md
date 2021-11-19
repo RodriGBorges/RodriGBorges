@@ -1,4 +1,6 @@
-![PortfolioBanner](https://user-images.githubusercontent.com/85651960/142478492-96196f31-ef77-4046-94c2-f2979dd0e701.gif)
+
+![RodrigoBanner](https://user-images.githubusercontent.com/85651960/142663520-8787160f-01eb-4808-906a-c0279ffaeb1f.gif)
+
 <!--
 - 🔭 Actualmente estoy trabajando en mi crecimiento y desarrollo personal como programador. 
 - 🌱 Estoy en constante aprendizaje con el curso de Programación WebFullStack. 
