@@ -39,13 +39,35 @@
 
 ## 
 
-<!--
+
+![snake gif](https://github.com/RodriGBorges/RodriGBorges/blob/output/github-contribution-grid-snake.svg)
+
+___
 <div align="center">
   <h3>Mis proyectos individuales </h3>
   <img alt="Rodri-JC" height="150" src="https://user-images.githubusercontent.com/85651960/142505058-121a6932-b406-4d66-be74-b65e0dd041f7.gif">
 </div>
--->
-![snake gif](https://github.com/RodriGBorges/RodriGBorges/blob/output/github-contribution-grid-snake.svg)
+
+##
+
+<div align="center">
+  <a href="https://github.com/RodriGBorges/MercadoLiebre2k" target="_blank"><img alt="Rodri-MercadoLiebreDH" height:"50" src="https://user-images.githubusercontent.com/85651960/142684721-536e083f-9290-4f84-a5a4-246becb38de9.png"></a>
+</div>
+
+
+___
+<div align="center">
+  <h3>Mis proyectos grupales </h3>
+  <img alt="Rodri-MT" height="150" src="https://user-images.githubusercontent.com/85651960/142687943-d1c86f48-ce93-45b1-8b75-eb56ca0488b8.gif">
+</div>
+
+##
+
+<div align="center">
+  <a href="https://github.com/davaloslm/grupo_10_forja" target="_blank"><img alt="Rodri-Forja" height:"50" src="https://user-images.githubusercontent.com/85651960/142687986-e943dcc9-5494-436d-9624-8f75e524b1de.png"></a>
+</div>
+
+
 <!--
 
 
