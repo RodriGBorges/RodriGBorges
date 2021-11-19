@@ -1,9 +1,9 @@
 ![PortfolioBanner](https://user-images.githubusercontent.com/85651960/142478492-96196f31-ef77-4046-94c2-f2979dd0e701.gif)
-
+<!--
 - 🔭 Actualmente estoy trabajando en mi crecimiento y desarrollo personal como programador. 
 - 🌱 Estoy en constante aprendizaje con el curso de Programación WebFullStack. 
 - 📖💻 Infinitamente agradecido por la oportunidad! @Santander @DigitalHouse @FundacionFormar
-
+-->
 <div style="display: inline_block">
   <img align="center" alt="Rodri-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Rodri-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -13,20 +13,37 @@
   <img align="center" alt="Rodri-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Rodri-Sequelize" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
   <img align="center" alt="Rodri-Sequelize" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Rodri-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="right" alt="Rodrigo-pic" height="250" src="https://user-images.githubusercontent.com/85651960/142493773-ddd8b700-9455-46a5-98ca-8febd769c7fd.gif">
+  <img align="center" alt="Rodri-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"><br>
+  <img align="right" alt="Rodrigo-pic" height="225" src="https://user-images.githubusercontent.com/85651960/142493773-ddd8b700-9455-46a5-98ca-8febd769c7fd.gif">
 </div>
-
 
 
 ##
-![snake gif](https://github.com/RodriGBorges/RodriGBorges/blob/output/github-contribution-grid-snake.svg)
 
-
-<div>
-  <img align="left" alt="Rodri-JC" height="150" src="https://user-images.githubusercontent.com/85651960/142505058-121a6932-b406-4d66-be74-b65e0dd041f7.gif">
+<br>
+<div style="display: inline_block"> 
+  <a href="https://www.linkedin.com/in/rodrii-gborges/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:rodrii.gborges@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
 
+<br>
+<div align="start">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RodriGBorges&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodriGBorges&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+
+## 
+
+<!--
+<div align="center">
+  <h3>Mis proyectos individuales </h3>
+  <img alt="Rodri-JC" height="150" src="https://user-images.githubusercontent.com/85651960/142505058-121a6932-b406-4d66-be74-b65e0dd041f7.gif">
+</div>
+-->
+![snake gif](https://github.com/RodriGBorges/RodriGBorges/blob/output/github-contribution-grid-snake.svg)
 <!--
 
 
