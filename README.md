@@ -31,7 +31,7 @@
 </div>
 
 <br>
-<div align="start">
+<div style="display: inline_block">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RodriGBorges&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodriGBorges&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
