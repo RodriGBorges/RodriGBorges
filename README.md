@@ -51,7 +51,7 @@ ___
 ##
 
 <div align="center">
-  <a href="https://github.com/RodriGBorges/MercadoLiebre2k" target="_blank"><img alt="Rodri-MercadoLiebreDH" height:"50" src="https://user-images.githubusercontent.com/85651960/142684721-536e083f-9290-4f84-a5a4-246becb38de9.png"></a>
+  <a href="https://github.com/RodriGBorges/MercadoLiebre2k" target="_blank"><img alt="Rodri-MercadoLiebreDH" height="800" src="https://user-images.githubusercontent.com/85651960/142684721-536e083f-9290-4f84-a5a4-246becb38de9.png"></a>
 </div>
 
 
@@ -64,7 +64,7 @@ ___
 ##
 
 <div align="center">
-  <a href="https://github.com/davaloslm/grupo_10_forja" target="_blank"><img alt="Rodri-Forja" height:"50" src="https://user-images.githubusercontent.com/85651960/142687986-e943dcc9-5494-436d-9624-8f75e524b1de.png"></a>
+  <a href="https://github.com/davaloslm/grupo_10_forja" target="_blank"><img alt="Rodri-Forja" height="800" src="https://user-images.githubusercontent.com/85651960/142687986-e943dcc9-5494-436d-9624-8f75e524b1de.png"></a>
 </div>
 
 
