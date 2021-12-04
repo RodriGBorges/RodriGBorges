@@ -58,7 +58,7 @@ ___
 ___
 <div align="center">
   <h3>Mis proyectos grupales </h3>
-  <img alt="Rodri-MT" height="150" src="https://user-images.githubusercontent.com/85651960/142687943-d1c86f48-ce93-45b1-8b75-eb56ca0488b8.gif">
+  <img alt="Rodri-HC" height="150" src="https://user-images.githubusercontent.com/85651960/144719630-2bd64c90-a969-43e5-9e0b-151a771d7c5c.gif">
 </div>
 
 ##
