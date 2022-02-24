@@ -39,8 +39,15 @@
 
 ## 
 
+<div align="center"> 
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/RodriGBorges/count.svg" />
+ </p>
+</div>
 
 ![snake gif](https://github.com/RodriGBorges/RodriGBorges/blob/output/github-contribution-grid-snake.svg)
+
+
 
 ___
 <div align="center">
