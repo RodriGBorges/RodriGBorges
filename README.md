@@ -18,9 +18,6 @@
   <img align="center" alt="Rodri-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Rodri-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img align="center" alt="Rodri-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /><br>
-  <div align="right">
-    <img alt="Rodrigo-pic" height="140" src="https://user-images.githubusercontent.com/85651960/142493773-ddd8b700-9455-46a5-98ca-8febd769c7fd.gif">
-  </div>
 </div>
 
 
@@ -28,12 +25,16 @@
 
 ##
 
+
 <br>
 <div style="display: inline_block"> 
   <a href="https://www.linkedin.com/in/rodrii-gborges/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:rodrii.gborges@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+
+ <img alt="Rodrigo-pic" align="right" height="140" src="https://user-images.githubusercontent.com/85651960/142493773-ddd8b700-9455-46a5-98ca-8febd769c7fd.gif">
+
 </div>
 
 <br>
