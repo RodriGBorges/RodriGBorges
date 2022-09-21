@@ -33,7 +33,7 @@
   <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
- <img alt="Rodrigo-pic" align="right" height="160" src="https://user-images.githubusercontent.com/85651960/142493773-ddd8b700-9455-46a5-98ca-8febd769c7fd.gif">
+ <img alt="Rodrigo-pic" align="right" height="150" src="https://user-images.githubusercontent.com/85651960/142493773-ddd8b700-9455-46a5-98ca-8febd769c7fd.gif">
 
 </div>
 
