@@ -33,14 +33,14 @@
   <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
- <img alt="Rodrigo-pic" align="right" height="170" src="https://user-images.githubusercontent.com/85651960/142493773-ddd8b700-9455-46a5-98ca-8febd769c7fd.gif">
+ <img alt="Rodrigo-pic" align="right" height="160" src="https://user-images.githubusercontent.com/85651960/142493773-ddd8b700-9455-46a5-98ca-8febd769c7fd.gif">
 
 </div>
 
 <br>
 <div style="display: inline_block">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RodriGBorges&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodriGBorges&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=RodriGBorges&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodriGBorges&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 
