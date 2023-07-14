@@ -65,8 +65,12 @@ ___
 ##
 
 <div align="center">
-  <a href="https://github.com/RodriGBorges/MercadoLiebre2k" target="_blank"><img alt="Rodri-MercadoLiebreDH" height="800" src="https://user-images.githubusercontent.com/85651960/142684721-536e083f-9290-4f84-a5a4-246becb38de9.png"></a>
+  <a href="https://github.com/RodriGBorges/Pokedex-app" target="_blank"><img alt="PokedexApp" height="225" src="https://github.com/RodriGBorges/RodriGBorges/assets/85651960/7916a41d-80ee-4c8f-9b87-95d30456e33b"></a>
+  <a href="https://github.com/RodriGBorges/pBreakRefrigeracion" target="_blank"><img alt="BreakRefrigeracion" height="225" src="https://github.com/RodriGBorges/RodriGBorges/assets/85651960/abf9a94d-a381-445f-a085-fa5214f2c3c2"></a>
+  <a href="https://github.com/RodriGBorges/MercadoLiebre2k" target="_blank"><img alt="MercadoLiebre" height="225" src="https://github.com/RodriGBorges/RodriGBorges/assets/85651960/744ef5e0-31e9-4c1c-b84f-cfd13918cdae"></a>
 </div>
+
+
 
 
 ___
@@ -78,7 +82,7 @@ ___
 ##
 
 <div align="center">
-  <a href="https://github.com/davaloslm/grupo_10_forja" target="_blank"><img alt="Rodri-Forja" height="800" src="https://user-images.githubusercontent.com/85651960/142687986-e943dcc9-5494-436d-9624-8f75e524b1de.png"></a>
+  <a href="https://github.com/RodriGBorges/forjaWeb" target="_blank"><img alt="ForjaWeb" height="225" src="https://github.com/RodriGBorges/RodriGBorges/assets/85651960/8ea3107b-fe68-4e58-9ddb-e8801c847a80"></a>
 </div>
 
 
