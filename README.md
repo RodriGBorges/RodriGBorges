@@ -58,34 +58,53 @@
 
 ___
 <div align="center">
-  <h3>Mis proyectos individuales </h3>
+  
+ ### `Mis proyectos individuales`
   <img alt="Rodri-JC" height="150" src="https://user-images.githubusercontent.com/85651960/142505058-121a6932-b406-4d66-be74-b65e0dd041f7.gif">
 </div>
 
 ##
 
 <div align="center">
-  <a href="https://github.com/RodriGBorges/Pokedex-app" target="_blank"><img alt="PokedexApp" height="225" src="https://github.com/RodriGBorges/RodriGBorges/assets/85651960/7916a41d-80ee-4c8f-9b87-95d30456e33b"></a>
-  <a href="https://github.com/RodriGBorges/pBreakRefrigeracion" target="_blank"><img alt="BreakRefrigeracion" height="225" src="https://github.com/RodriGBorges/RodriGBorges/assets/85651960/abf9a94d-a381-445f-a085-fa5214f2c3c2"></a>
-  <a href="https://github.com/RodriGBorges/MercadoLiebre2k" target="_blank"><img alt="MercadoLiebre" height="225" src="https://github.com/RodriGBorges/RodriGBorges/assets/85651960/744ef5e0-31e9-4c1c-b84f-cfd13918cdae"></a>
+
+  ![laptopPhoenix](https://github.com/RodriGBorges/RodriGBorges/assets/85651960/9f6987b0-4544-47de-ad85-a0f11c804226)
+  ![laptopPokedexApp2](https://github.com/RodriGBorges/RodriGBorges/assets/85651960/625af9a7-bad9-41e5-906c-afafcd3c86fc)
+
+  ![laptopBreak](https://github.com/RodriGBorges/RodriGBorges/assets/85651960/f4c8db32-fdcc-49e4-bc3c-b76a4ad64eaa)
+  ![laptopMl](https://github.com/RodriGBorges/RodriGBorges/assets/85651960/2e6cd8b8-7c05-44ee-8b04-4fc0f88d5873)
+
 </div>
 
+## `Links directos`
 
+🚧  [PhoenixMantenimiento]
+
+🔗  [PokedexApp](https://github.com/RodriGBorges/Pokedex-app)
+    
+🔗  [BreakRefrigeracion](https://github.com/RodriGBorges/pBreakRefrigeracion)
+  
+🔗  [MercadoLiebre](https://github.com/RodriGBorges/MercadoLiebre2k)
 
 
 ___
 <div align="center">
-  <h3>Mis proyectos grupales </h3>
+  
+ ### `Mis proyectos grupales`
   <img alt="Rodri-HC" height="150" src="https://user-images.githubusercontent.com/85651960/144719630-2bd64c90-a969-43e5-9e0b-151a771d7c5c.gif">
 </div>
 
 ##
 
 <div align="center">
-  <a href="https://github.com/RodriGBorges/forjaWeb" target="_blank"><img alt="ForjaWeb" height="225" src="https://github.com/RodriGBorges/RodriGBorges/assets/85651960/8ea3107b-fe68-4e58-9ddb-e8801c847a80"></a>
+
+  ![laptopForjaweb](https://github.com/RodriGBorges/RodriGBorges/assets/85651960/40d052f1-15f3-4e3d-b9e5-d05a21e08412)
+    
 </div>
 
 
+## `Links directos`
+
+🔗  [ForjaWeb](https://github.com/RodriGBorges/forjaWeb)
 <!--
 
 
