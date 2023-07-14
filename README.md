@@ -77,13 +77,7 @@ ___
 
 ## `Links directos`
 
-🚧  [PhoenixMantenimiento]
-
-🔗  [PokedexApp](https://github.com/RodriGBorges/Pokedex-app)
-    
-🔗  [BreakRefrigeracion](https://github.com/RodriGBorges/pBreakRefrigeracion)
-  
-🔗  [MercadoLiebre](https://github.com/RodriGBorges/MercadoLiebre2k)
+🚧  [PhoenixMantenimiento]     🔗  [PokedexApp](https://github.com/RodriGBorges/Pokedex-app)     🔗  [BreakRefrigeracion](https://github.com/RodriGBorges/pBreakRefrigeracion)     🔗  [MercadoLiebre](https://github.com/RodriGBorges/MercadoLiebre2k)
 
 
 ___
